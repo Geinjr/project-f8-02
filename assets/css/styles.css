@@ -15,6 +15,9 @@ body {
     font-family: "Poppins", sans-serif;
 }
 
+body {
+    background: #fffcf4;
+}
 /* common */
 .btn {
     color: #fff;
@@ -139,7 +142,7 @@ a {
 /* hero */
 .hero {
     padding-top: 56px;
-    background: #fffcf4;
+    background: #d2d6cb;
     padding-bottom: 65px;
 }
 
@@ -295,6 +298,7 @@ a {
 .popular {
     padding: 65px 0;
     margin-top: 135px;
+    background: #d2d6cb;
 }
 
 .popular-top {
@@ -418,7 +422,7 @@ a {
 .feedback {
     margin-top: 135px;
     padding: 96px 0;
-    background: #c5c5c5;
+    background: #d2d6cb;
 }
 
 .feedback-list {
@@ -490,6 +494,7 @@ a {
 .features {
     margin-top: 135px;
     padding: 65px 0;
+    background: #d2d6cb;
 }
 .features .body {
     display: flex;
@@ -534,7 +539,8 @@ a {
 }
 /* .features-2nd */
 .features-2nd {
-    margin-top: 70px;
+    margin-top: 135px;
+    background: #d2d6cb;
 }
 
 .features-2nd .body {
@@ -552,7 +558,7 @@ a {
 .blog {
     margin-top: 135px;
     padding: 96px 0;
-    background-color: whitesmoke;
+    background-color: #d2d6cb;
 }
 .blog .blog-top {
     text-align: center;
