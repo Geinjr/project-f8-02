@@ -259,6 +259,14 @@ a {
     margin-left: 28px;
     align-items: center;
     cursor: pointer;
+    justify-content: center;
+    height: 64px;
+    min-width: 180px;
+    border-radius: 32px;
+}
+
+.hero .watch-video:hover {
+    background-color: rgb(246, 134, 134);
 }
 
 .hero .watch-video .icon {
